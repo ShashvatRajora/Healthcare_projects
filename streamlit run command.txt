@@ -1,0 +1,8 @@
+In Order to get this strealit python file running you need to use the command : <streamlit run "(path_of_the_spyder_python_file)">
+
+( if you have a seperate environment path , access the command prompt of that path in anaconda navigator or directly . )
+
+For example :-
+
+streamlit run "D:\healthcare_projects\multiple_diseases\multiple_disease.py"
+
